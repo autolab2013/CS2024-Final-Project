@@ -1,5 +1,4 @@
 # CS2024-Final-Project: yl2494's branch
-<<<<<<< HEAD
 
 Please do the following before coding:
 1. ```git checkout master```
@@ -8,8 +7,6 @@ Please do the following before coding:
 4. ```git rebase master```
 5. Always commit to your branch first
 6. Test your code then issued a pull request on Github
-=======
->>>>>>> origin/yl2494
 ---
 Slack Team: BZ256
 
