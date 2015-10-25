@@ -1,5 +1,6 @@
 # CS2024-Final-Project
-
+Clone or Fork?
+CAO
 Please do the following before coding:
 ---
 1. ```git checkout master```
@@ -19,3 +20,12 @@ Team Member:
 - yifan ge
 
 Hey,This is the ReadMe File for our Final Project. We should discuss it later.
+<<<<<<< HEAD
+
+MAN.
+
+
+
+
+=======
+>>>>>>> master
