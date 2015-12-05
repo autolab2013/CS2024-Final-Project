@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Android2", "Android2", "{E8B1BF6D-E89F-4622-8EBE-C0D18BC02D6C}"
+EndProject
+Project("{39E2626F-3545-4960-A6E8-258AD8476CE5}") = "Android2.Packaging", "Android2\Android2.Packaging\Android2.Packaging.androidproj", "{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Android2.NativeActivity", "Android2\Android2.NativeActivity\Android2.NativeActivity.vcxproj", "{C58338EC-8765-47AF-875F-3B07CC90F1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Debug|ARM.ActiveCfg = Debug|ARM
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Debug|ARM.Build.0 = Debug|ARM
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Debug|ARM.Deploy.0 = Debug|ARM
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Debug|x86.ActiveCfg = Debug|x86
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Debug|x86.Build.0 = Debug|x86
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Debug|x86.Deploy.0 = Debug|x86
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Release|ARM.ActiveCfg = Release|ARM
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Release|ARM.Build.0 = Release|ARM
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Release|ARM.Deploy.0 = Release|ARM
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Release|x86.ActiveCfg = Release|x86
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Release|x86.Build.0 = Release|x86
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092}.Release|x86.Deploy.0 = Release|x86
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Debug|ARM.Build.0 = Debug|ARM
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Debug|x86.ActiveCfg = Debug|x86
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Debug|x86.Build.0 = Debug|x86
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Release|ARM.ActiveCfg = Release|ARM
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Release|ARM.Build.0 = Release|ARM
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Release|x86.ActiveCfg = Release|x86
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4DF4EFE9-FD6D-4F01-9622-B34E7BA66092} = {E8B1BF6D-E89F-4622-8EBE-C0D18BC02D6C}
+		{C58338EC-8765-47AF-875F-3B07CC90F1C3} = {E8B1BF6D-E89F-4622-8EBE-C0D18BC02D6C}
+	EndGlobalSection
+EndGlobal
